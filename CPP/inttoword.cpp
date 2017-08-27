@@ -1,6 +1,6 @@
 /** Code by Ayush Agarwal (thisisayushaa@gmail.com).
-
-    All Suggestions are welcome and sorry for no comments
+This Program Converts Any Number to Words
+e.g. 101: One Hundred One
 **/
 
 #include<iostream>
